@@ -1,1 +1,1 @@
-# mtxpool.github.io
+Website for MTX pools.
